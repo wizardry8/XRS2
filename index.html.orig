@@ -2,9 +2,13 @@
 <head>
 </head>
 <body>
+<<<<<<< HEAD
 <h1 style="background-color:yellow; text-align:center; font-size:120px; margin-top: 25%;">Keuler von Pratze -w0</h1>
 <h2 style="background-color:red; text-align:center; font-size:20px; margin-top: 2%;">UNITY ASSET STORE SALE OMG :D -w1</h2>
 <h2 style="background-color:purple; text-align:center; font-size:10px; margin-top: 2%;">Everybody wants to have a strong healthy body, until its time to do shit -w2</h2>
+=======
+<h1 style="background-color:yellow; text-align:center; font-size:120px; margin-top: 25%;">Keuler von Pratze</h1>
+>>>>>>> add secret hg
 <h2 style="background-color:orange; text-align:center; font-size:25px; margin-top: 2%;">Find treasures in unexpected places - hg1</h2>
 </body>
 </html>
